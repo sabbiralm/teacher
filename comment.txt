@@ -1,1 +1,26 @@
-input ebong header er lekhabujha jasse na
+login
+register
+
+
+attendance
+community
+courses
+dashboard
+discussion
+exams
+grades
+guardian/dashboard
+leaderboard
+notes
+notification
+polls-quizzes
+profile
+question-bank
+student/progress
+teacher/analytics
+teacher/check-answers
+teacher/create-question
+
+
+
+
